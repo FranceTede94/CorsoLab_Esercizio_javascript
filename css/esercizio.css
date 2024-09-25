@@ -1,0 +1,52 @@
+*{
+    background-color: rgb(233, 221, 221);
+    text-align: center;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#numero1{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#numero2{
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+button{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+#somma{
+    margin-top: 10px;
+    color: yellow;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+
+#sottrazione{
+    margin-top: 10px;
+    color: blue;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#moltiplicazione{
+    margin-top: 10px;
+    color: violet;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#divisione{
+    margin-top: 10px;
+    color: black;
+    border: 2px solid black;
+    padding: 20px;
+}

@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box; 
+}
+
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(233, 221, 221);
+    
+}
+
+#nome{
+    color: green;
+    padding: 15px;
+}
+
+button{
+    font-size: 20px;
+}
+
+#risultato{
+    margin-top: 20px;
+    font-size: 30px;
+    color: blueviolet;
+}
